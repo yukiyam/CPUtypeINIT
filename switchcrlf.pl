@@ -9,7 +9,10 @@ $Getopt::Std::STANDARD_HELP_VERSION = 1;
 	"CPUTypeINIT.p",
 	"CPUTypeINIT.r",
 	"CPUTypeIcon.r",
-	"Makefile"
+	"Makefile",
+	"README.txt",
+	"README.ja.txt",
+	"LICENSE.txt"
 );
 
 
